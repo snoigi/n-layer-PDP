@@ -1,0 +1,52 @@
+Training
+Randomized
+Info
+
+# Layers: 4
+2 - 5 - 20 - 3
+Weight Range: -1.5 - 1.5
+
+Lambda: 0.3
+# Test Cases: 4
+ErrorThreshold: 0.005
+Nmax: 100000
+
+Output File: output_trainXOR_2-5-20-3.txt
+Output Weight File: weights_trainXOR_2-5-20-3.txt
+
+Termination Conditions:
+Total error 0.00499923 was below the error threshold 0.005
+Maximum Iterations: 100000	|	# of Iterations Run: 2397
+
+
+
+Test Cases:
+Input Test Case #1
+00.txt
+Outputs (F):
+1.38726e-05 0.0304855 0.0436924 
+True Value (T):
+0 0 0 
+
+Input Test Case #2
+01.txt
+Outputs (F):
+0.0116007 0.977872 0.95831 
+True Value (T):
+0 1 1 
+
+Input Test Case #3
+10.txt
+Outputs (F):
+0.0129188 0.977958 0.957343 
+True Value (T):
+0 1 1 
+
+Input Test Case #4
+11.txt
+Outputs (F):
+0.983434 0.999876 0.0452871 
+True Value (T):
+1 1 0 
+
+Time taken (min): 0.00131667

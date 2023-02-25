@@ -1,0 +1,199 @@
+Training
+Randomized
+Info
+
+# Layers: 4
+10000 - 1000 - 100 - 5
+Weight Range: -0.02 - 0.02
+
+Lambda: 2.1
+# Test Cases: 25
+ErrorThreshold: 0.003
+Nmax: 10000
+
+Output File: output_trainHands.txt
+Output Weight File: weights_trainHands.txt
+
+Termination Conditions:
+Total error 0.00294379 was below the error threshold 0.003
+Maximum Iterations: 10000	|	# of Iterations Run: 51
+
+
+
+Test Cases:
+Input Test Case #1
+1_1.txt
+Outputs (F):
+0.982367 0.0141352 9.33248e-06 0.0010864 0.00429523 
+True Value (T):
+1 0 0 0 0 
+
+Input Test Case #2
+1_2.txt
+Outputs (F):
+0.00616537 0.981083 0.00802896 0.00783321 4.50957e-05 
+True Value (T):
+0 1 0 0 0 
+
+Input Test Case #3
+1_3.txt
+Outputs (F):
+9.30331e-07 0.000865166 0.997747 0.000408293 8.17711e-10 
+True Value (T):
+0 0 1 0 0 
+
+Input Test Case #4
+1_4.txt
+Outputs (F):
+0.00276767 0.00849316 7.82186e-05 0.992654 0.0172009 
+True Value (T):
+0 0 0 1 0 
+
+Input Test Case #5
+1_5.txt
+Outputs (F):
+0.00598195 0.000159288 2.19675e-06 0.00111393 0.997812 
+True Value (T):
+0 0 0 0 1 
+
+Input Test Case #6
+2_1.txt
+Outputs (F):
+0.986308 0.0126049 6.07058e-06 0.000797939 0.00396229 
+True Value (T):
+1 0 0 0 0 
+
+Input Test Case #7
+2_2.txt
+Outputs (F):
+0.00879354 0.990901 0.00299449 0.00521443 3.38212e-05 
+True Value (T):
+0 1 0 0 0 
+
+Input Test Case #8
+2_3.txt
+Outputs (F):
+2.52044e-06 0.00202127 0.993406 0.000901701 4.43531e-09 
+True Value (T):
+0 0 1 0 0 
+
+Input Test Case #9
+2_4.txt
+Outputs (F):
+0.00213202 0.0104726 0.00013072 0.99661 0.0105844 
+True Value (T):
+0 0 0 1 0 
+
+Input Test Case #10
+2_5.txt
+Outputs (F):
+0.00547109 0.000200791 3.24696e-06 0.00176798 0.997624 
+True Value (T):
+0 0 0 0 1 
+
+Input Test Case #11
+3_1.txt
+Outputs (F):
+0.985945 0.00785043 7.69468e-06 0.00108349 0.00699995 
+True Value (T):
+1 0 0 0 0 
+
+Input Test Case #12
+3_2.txt
+Outputs (F):
+0.0151579 0.987472 0.00292633 0.00797876 7.92154e-05 
+True Value (T):
+0 1 0 0 0 
+
+Input Test Case #13
+3_3.txt
+Outputs (F):
+1.67375e-06 0.000991625 0.996352 0.000761234 2.39029e-09 
+True Value (T):
+0 0 1 0 0 
+
+Input Test Case #14
+3_4.txt
+Outputs (F):
+0.00182248 0.00962573 0.000161367 0.996666 0.010534 
+True Value (T):
+0 0 0 1 0 
+
+Input Test Case #15
+3_5.txt
+Outputs (F):
+0.0116935 0.000560235 9.75007e-06 0.00850856 0.98903 
+True Value (T):
+0 0 0 0 1 
+
+Input Test Case #16
+4_1.txt
+Outputs (F):
+0.985369 0.0069327 8.33389e-06 0.00125203 0.00820079 
+True Value (T):
+1 0 0 0 0 
+
+Input Test Case #17
+4_2.txt
+Outputs (F):
+0.00966926 0.988965 0.00368093 0.0054479 4.19709e-05 
+True Value (T):
+0 1 0 0 0 
+
+Input Test Case #18
+4_3.txt
+Outputs (F):
+4.74639e-06 0.00205605 0.990355 0.00157519 1.29339e-08 
+True Value (T):
+0 0 1 0 0 
+
+Input Test Case #19
+4_4.txt
+Outputs (F):
+0.00250275 0.00973617 0.000102575 0.996072 0.0117041 
+True Value (T):
+0 0 0 1 0 
+
+Input Test Case #20
+4_5.txt
+Outputs (F):
+0.00987338 0.000370404 5.06293e-06 0.00259359 0.994891 
+True Value (T):
+0 0 0 0 1 
+
+Input Test Case #21
+5_1.txt
+Outputs (F):
+0.983483 0.0129193 8.04513e-06 0.000949869 0.00428672 
+True Value (T):
+1 0 0 0 0 
+
+Input Test Case #22
+5_2.txt
+Outputs (F):
+0.0113534 0.991019 0.00261155 0.0043814 3.68199e-05 
+True Value (T):
+0 1 0 0 0 
+
+Input Test Case #23
+5_3.txt
+Outputs (F):
+2.21872e-06 0.00147773 0.994846 0.000853006 3.6279e-09 
+True Value (T):
+0 0 1 0 0 
+
+Input Test Case #24
+5_4.txt
+Outputs (F):
+0.00199789 0.00959031 0.000136896 0.996391 0.00995982 
+True Value (T):
+0 0 0 1 0 
+
+Input Test Case #25
+5_5.txt
+Outputs (F):
+0.00995237 0.000264853 4.512e-06 0.00352292 0.994871 
+True Value (T):
+0 0 0 0 1 
+
+Time taken (min): 12.9908

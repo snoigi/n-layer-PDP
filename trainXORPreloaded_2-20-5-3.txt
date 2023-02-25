@@ -1,0 +1,27 @@
+Training
+Loaded
+Info
+
+2 - 20 - 5 - 3
+
+Lambda: 0.3
+# Test Cases: 4
+Error Threshold: 0.005
+Nmax: 0
+Save Interval: 40
+
+Output File: output_trainXORPreloaded_2-20-5-3.txt
+Input Weight File: weights_trainXOR_2-20-5-3.txt
+Output Weight File: weights_trainXORPreloaded_2-20-5-3.txt
+
+0.0 0.0
+0.0 0.0 0.0
+
+0.0 1.0
+0.0 1.0 1.0
+
+1.0 0.0
+0.0 1.0 1.0
+
+1.0 1.0
+1.0 1.0 0.0 

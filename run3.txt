@@ -1,0 +1,12 @@
+Running
+Loaded
+Info
+
+# Layers: 4
+10000 - 1000 - 100 - 5
+
+Output File: output_run3.txt
+Input Weight File: weights_trainHands.txt
+Output Weight File: weights_run3.txt
+
+run_3.txt

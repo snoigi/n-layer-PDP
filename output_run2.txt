@@ -1,0 +1,18 @@
+Running
+Loaded
+Info
+
+# Layers: 4
+10000 - 1000 - 100 - 5
+Output File: output_run2.txt
+Input Weight File: weights_trainHands.txt
+Output Weight File: weights_run2.txt
+
+
+Input:
+run_2.txt
+
+Output:
+0.00576967 0.989006 0.00506465 0.00415971 2.10215e-05 
+
+Time taken (min): 0.00333333

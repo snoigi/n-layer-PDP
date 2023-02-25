@@ -1,0 +1,200 @@
+Training
+Loaded
+Info
+
+# Layers: 4
+10000 - 1000 - 100 - 5
+Lambda: 0.3
+# Test Cases: 25
+ErrorThreshold: 0.01
+Nmax: 1
+
+Output File: output_trainHandsPreload.txt
+Input Weight File: weights_trainHandsPreload.txt_iteration_66.txt
+Output Weight File: weights_trainHandsPreload.txt
+
+Termination Conditions:
+Total error 12.5 was above the error threshold 0.01
+Maximum Iterations: 1	|	# of Iterations Run: 1
+Maximum Iterations reached
+
+
+Save Interval (ms): 72000
+
+Test Cases:
+Input Test Case #1
+1_1.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+1 0 0 0 0 
+
+Input Test Case #2
+1_2.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 1 0 0 0 
+
+Input Test Case #3
+1_3.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 1 0 0 
+
+Input Test Case #4
+1_4.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 0 1 0 
+
+Input Test Case #5
+1_5.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 0 0 1 
+
+Input Test Case #6
+2_1.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+1 0 0 0 0 
+
+Input Test Case #7
+2_2.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 1 0 0 0 
+
+Input Test Case #8
+2_3.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 1 0 0 
+
+Input Test Case #9
+2_4.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 0 1 0 
+
+Input Test Case #10
+2_5.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 0 0 1 
+
+Input Test Case #11
+3_1.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+1 0 0 0 0 
+
+Input Test Case #12
+3_2.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 1 0 0 0 
+
+Input Test Case #13
+3_3.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 1 0 0 
+
+Input Test Case #14
+3_4.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 0 1 0 
+
+Input Test Case #15
+3_5.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 0 0 1 
+
+Input Test Case #16
+4_1.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+1 0 0 0 0 
+
+Input Test Case #17
+4_2.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 1 0 0 0 
+
+Input Test Case #18
+4_3.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 1 0 0 
+
+Input Test Case #19
+4_4.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 0 1 0 
+
+Input Test Case #20
+4_5.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 0 0 1 
+
+Input Test Case #21
+5_1.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+1 0 0 0 0 
+
+Input Test Case #22
+5_2.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 1 0 0 0 
+
+Input Test Case #23
+5_3.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 1 0 0 
+
+Input Test Case #24
+5_4.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 0 1 0 
+
+Input Test Case #25
+5_5.txt
+Outputs (F):
+0 0 0 0 0 
+True Value (T):
+0 0 0 0 1 
+
+Time taken (min): 1.34598
